@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duc</h1>
-<h3 align="left">I'm currently a second-year student at Hanoi University of Science and Technology, majoring in Computer Engineering. I have a strong passion for Cybersecurity — specifically Penetration Testing with a focus on Web Exploitation. Furthermore, I am eager to expand my knowledge into Blockchain technology.</h3>
+<h3 align="left">I'm currently a second-year student at Hanoi University of Science and Technology, majoring in Computer Engineering. I have a strong passion for cybersecurity, particularly penetration testing with a focus on web exploitation. Additionally, I'm eager to expand my knowledge in blockchain technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
